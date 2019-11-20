@@ -1,0 +1,1 @@
+<jsp:forward page="admin/dashboard.jsp"></jsp:forward>
